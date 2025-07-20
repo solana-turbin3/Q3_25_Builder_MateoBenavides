@@ -4,3 +4,6 @@
 [submodule "anchor-vault-q3-rust"]
 	path = anchor-vault-q3-rust
 	url = https://github.com/AtlasHODL/anchor-vault-q3-rust
+[submodule "amm"]
+	path = amm
+	url = https://github.com/AtlasHODL/amm
