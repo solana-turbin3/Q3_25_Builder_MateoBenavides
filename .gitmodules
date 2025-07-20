@@ -1,0 +1,3 @@
+[submodule "escrow-project"]
+	path = escrow-project
+	url = https://github.com/AtlasHODL/escrow-project
