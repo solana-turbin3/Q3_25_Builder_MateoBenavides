@@ -1,3 +1,6 @@
 [submodule "escrow-project"]
 	path = escrow-project
 	url = https://github.com/AtlasHODL/escrow-project
+[submodule "anchor-vault-q3-rust"]
+	path = anchor-vault-q3-rust
+	url = https://github.com/AtlasHODL/anchor-vault-q3-rust
