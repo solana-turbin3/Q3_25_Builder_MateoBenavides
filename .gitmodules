@@ -7,3 +7,9 @@
 [submodule "amm"]
 	path = amm
 	url = https://github.com/AtlasHODL/amm
+[submodule "programs/nftstaking"]
+	path = programs/nftstaking
+	url = https://github.com/AtlasHODL/nftstaking
+[submodule "programs/marketplace_nft"]
+	path = programs/marketplace_nft
+	url = https://github.com/AtlasHODL/marketplace_nft
